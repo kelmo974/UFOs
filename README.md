@@ -1,6 +1,8 @@
-# UFOs
+# UFO Sighting Website
 Using JS and html to embed filterable datasets into a browser.
-## Overview of Project:
+
+
+## Project Overview:
 The purpose of this upload is multi-pronged. First and foremost, the objective was to bring the stakeholder's message to life in a format that could be delivered to anybody with curiousty in UFO sightings. Beyond that, it served as an educational exercise to build on javascript skills and tie that into a styled and interactvive html experience. Fresh exposure to bootstrap concepts and designing aestetically pleasing and useful website features were front and center. It was key to gain an understanding of the backend relationship between javascript and what a frontend user encorunters when visiting a webpage.## 
 
 ## Results:
@@ -9,7 +11,7 @@ Dana,
 As the main stakeholder in this project, it is imperative that you have a solid understanding of the inner workings of your new webpage since you'll be taking the reigns and interacting with the UFO community from here. The data set you provided shares information based on various criteria such as date, location, and shape. These correspond to unique columns found within the dataset. When it comes to your webpage, the ability to filter based on these parameters was a critical piece to the build. Some images and blurbs explaining this functionality are included below.
 
 
-The following image highlights the chosen parameters by which the dataset can be filtered. 
+The following image highlights the chosen parameters by which the dataset can be filtered. To adjust the dataset, simply enter the name of a city, a date, or any other modifier into its correpsonding text box. Then, press enter or click _Filter Table._
 ![image](https://user-images.githubusercontent.com/109499859/205326964-0ed0a1d8-f938-417f-81ea-aa13e12124f7.png)
 
 
